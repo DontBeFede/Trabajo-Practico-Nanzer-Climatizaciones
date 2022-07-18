@@ -1,0 +1,243 @@
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\manue\source\repos\ProyectoNanzerCervantes\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Documentos\GitHub\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\source\repos\TrabajoFinalNanzerClima\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\fedeh\OneDrive\Escritorio\Tp\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Escritorio\Tp\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\Noquio 3.0\Desktop\Tp\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\Desktop\Tp\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Tp\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\fedeh\OneDrive\Escritorio\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\Noquio 3.0\Desktop\Tp\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Documentos\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.EditarArticulos.resources
+C:\Users\fedeh\OneDrive\Escritorio\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.EditarInsumos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.EditarArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.EditarInsumos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Tp\obj\Debug\TrabajoFinalNanzerClima.EditarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarInsumos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Leeme.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo final Prog\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.exe.config
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.AssemblyReference.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AgregarArticulosOrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosFactura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.AñadirArticulosRemito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Cargar_Proveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.ConsultaDocumentos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarInsumos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.EditarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Factura.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.FacturaDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Leeme.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Login.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Menu.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.MostrarProveedores.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.OrdenCompraDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.OrdenDeCompra.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Properties.Resources.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.Remito.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.RemitoDigital.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.StockArticulos.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.StockInsumo.resources
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.GenerateResource.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.csproj.CoreCompileInputs.cache
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.exe
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.pdb
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.exe.manifest
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\bin\Debug\TrabajoFinalNanzerClima.application
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.exe.manifest
+C:\Users\Noquio 3.0\Desktop\Trabajo Practico Nanzer Climatizaciones\obj\Debug\TrabajoFinalNanzerClima.application
